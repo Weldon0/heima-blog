@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ED9B26AA7627B72412543A4D387754BB</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>images/%E7%BB%84%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/zu-jian-sheng-ming-zhou-qi.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>images/%E7%BB%84%E4%BB%B6%E7%9A%84%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/zu-jian-de-zhi-xing-shun-xu.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/%E6%9B%B4%E6%96%B0%E9%98%B6%E6%AE%B5.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/geng-xin-jie-duan.png</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>ED9B26AA7627B72412543A4D387754BB</string>
+</dict>
+</plist>

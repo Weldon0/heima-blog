@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ED9B26AA7627B72412543A4D387754BB</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>images/context01.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/context01.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>images/context02.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/context02.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>images/props%E6%A0%A1%E9%AA%8C.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/props-xiao-yan.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>images/props%E6%A0%A1%E9%AA%8C02.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/props-xiao-yan02.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>images/props%E6%A0%A1%E9%AA%8C03.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/props-xiao-yan03.png</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>ED9B26AA7627B72412543A4D387754BB</string>
+</dict>
+</plist>

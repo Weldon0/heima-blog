@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ED9B26AA7627B72412543A4D387754BB</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>images/%E7%BB%84%E4%BB%B6.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/zu-jian.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>images/state%E7%BB%84%E4%BB%B6.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/state-zu-jian.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>images/%E5%8F%97%E6%8E%A7%E7%BB%84%E4%BB%B6.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/23/shou-kong-zu-jian.png</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>ED9B26AA7627B72412543A4D387754BB</string>
+</dict>
+</plist>

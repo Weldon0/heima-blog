@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ED9B26AA7627B72412543A4D387754BB</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>./images/TS_logo.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/30/tslogo.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/TS%E6%98%AFJS%E7%9A%84%E8%B6%85%E9%9B%86.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/30/ts-shijs-de-chao-ji.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/TSvsJS.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/30/tsvsjs.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/TS%E7%BC%96%E8%AF%91.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/30/ts-bian-yi.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/image-20211008205316719.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/01/30/image20211008205316719.png</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>ED9B26AA7627B72412543A4D387754BB</string>
+</dict>
+</plist>

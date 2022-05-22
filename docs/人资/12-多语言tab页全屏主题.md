@@ -427,7 +427,7 @@ export default {
 
 最终效果
 
-![image-20200804001654730](assets/image-20200804001654730.png)
+![image-20200804001654730](https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/uPic/image-20200804001654730.png)
 
 **提交代码**
 
@@ -489,7 +489,7 @@ const store = new Vuex.Store({
 
 效果如下
 
-![image-20200804012117287](assets/image-20200804012117287.png)
+![image-20200804012117287](https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/uPic/image-20200804012117287.png)
 
 
 

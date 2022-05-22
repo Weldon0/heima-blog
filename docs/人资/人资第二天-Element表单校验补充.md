@@ -35,7 +35,7 @@ Vue.use(ElementUI);
 
 接下来,利用Element组件完成如图的效果
 
-![image-20200906184428291](assets/image-20200906184428291.png)
+![image-20200906184428291](https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/uPic/image-20200906184428291.png)
 
 代码如下
 
@@ -91,7 +91,7 @@ export default {
 
 接下来，完成表单的校验规则如下几个先决条件
 
-![image-20200906184604982](assets/image-20200906184604982.png)
+![image-20200906184604982](https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/uPic/image-20200906184604982.png)
 
 **model属性** (表单数据对象)
 

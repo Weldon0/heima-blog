@@ -335,7 +335,7 @@ computed: {
 
 由此，又有了Vuex的模块化
 
-![image-20200904155846709](assets/image-20200904155846709.png)
+![image-20200904155846709](https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/uPic/image-20200904155846709.png)
 
 ### 模块化的简单应用
 
@@ -405,7 +405,7 @@ const store  = new Vuex.Store({
 
 > 这句话的意思是 刚才的user模块还是setting模块，它的 action、mutation 和 getter 其实并没有区分，都可以直接通过全局的方式调用 如
 
-![image-20200904164007116](assets/image-20200904164007116.png)
+![image-20200904164007116](https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/uPic/image-20200904164007116.png)
 
 ```js
   user: {
@@ -912,7 +912,7 @@ export default {
 
 
 
-![image-20201012181147093](assets/image-20201012181147093.png)
+![image-20201012181147093](https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/uPic/image-20201012181147093.png)
 
 
 

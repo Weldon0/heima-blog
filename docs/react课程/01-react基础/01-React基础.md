@@ -621,7 +621,7 @@ ReactDom.render(element, document.getElementById('root'))
 
 - 需求：去掉上一个列表案例 `ul` 的点，加上背景样式，设置字体大小，给第一个 `p` 设置两倍字体大小
 
-```diff
+```js
 import ReactDom from 'react-dom'
 
 
@@ -679,7 +679,7 @@ ReactDom.render(element, document.getElementById('root'))
 
 - 需求：在元素 `button`上根据 `isActive` 数据的值添加 `active` 类名
 
-```
+``` css
 index.css
 .button {
   width: 100px;
@@ -707,6 +707,8 @@ index.css
   display: block;
   width: 100%;
 }
+```
+```js
 index.js
 import ReactDom from 'react-dom'
 // 在src下新建index.css文件，导入进来即可
@@ -786,13 +788,22 @@ ReactDom.render(element, document.getElementById('root'))
 演示过程：
 
 - 安装导入 `classnames` [文档](https://www.npmjs.com/package/classnames#usage-with-reactjs)
-
+> 安装classnames包
+::: code-tabs#shell
+@tab npm安装
 ```bash
-# 安装 npm i classnames
+npm i classnames
+```
+@tab yarn安装
+```bash
 yarn add classnames
+```
+:::
+
+```js{4,5}
 import ReactDom from 'react-dom'
-+ // 导入
-+ import classNames from 'classnames'
+// 导入
+import classNames from 'classnames'
 import './index.css'
 
 

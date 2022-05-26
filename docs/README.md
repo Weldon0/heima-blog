@@ -1,9 +1,11 @@
 ---
 home: true
 layout: Blog
+hero: true
 icon: home
 title: 博客主页
 heroText: 伸手摘星，即使徒劳无功，亦不致满手污泥
+bgImage: img_22.jpeg
 heroFullScreen: true
 tagline: 前端博客系统
 projects:

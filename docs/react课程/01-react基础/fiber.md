@@ -9,7 +9,7 @@ title: fiber
 #### rootFiber：组件树的根节点 App 组件
 
 
-:::tip 23
+:::tip 测试提示组件
 你好
 :::
 

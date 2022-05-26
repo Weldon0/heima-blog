@@ -34,7 +34,7 @@ export default sidebar([
       },
       {
         text: "三、react-hooks",
-        prefix: "/03-react-hooks",
+        prefix: "03-react-hooks",
         collapsable: true,
         children: [
           "01-react-组件复用",
@@ -48,7 +48,7 @@ export default sidebar([
       },
       {
         text: "四、react-redux",
-        prefix: "/04-react-redux",
+        prefix: "04-react-redux",
         collapsable: true,
         children: [
           "redux课程",
@@ -60,7 +60,7 @@ export default sidebar([
       },
       {
         text: "五、react-typescript",
-        prefix: "/06-react-TS",
+        prefix: "06-react-TS",
         collapsable: true,
         children: [
           "01-TypeScript 介绍",
@@ -72,7 +72,7 @@ export default sidebar([
       },
       {
         text: "六、react-极客园移动端",
-        prefix: "/05-react-极客园移动端",
+        prefix: "05-react-极客园移动端",
         collapsable: true,
         children: [
           "📚极客园M-1【项目搭建】",
@@ -93,7 +93,7 @@ export default sidebar([
   {
     text: "vue人力资源项目",
     icon: "vue",
-    prefix: "/人资",
+    prefix: "人资",
     collapsable: true,
     children: [
       "01-vuex基础",
@@ -116,7 +116,7 @@ export default sidebar([
   {
     text: 'vue黑马头条项目',
     icon: 'vue',
-    prefix: '/头条',
+    prefix: '头条',
     collapsable: true,
     children: [
       '01-项目初始化',
@@ -132,9 +132,25 @@ export default sidebar([
     ]
   },
   {
+    text: 'vue3小兔鲜项目',
+    prefix: '/小兔鲜',
+    icon: 'vue',
+    collapsable: true,
+    children: [
+      'day01-Vue3入门',
+      'day02-小兔鲜儿',
+      'day03-小兔鲜儿',
+      'day04-小兔鲜儿',
+      'day05-小兔鲜儿',
+      'day06-小兔鲜儿',
+      'day07-小兔鲜儿',
+      'day08-小兔鲜儿',
+    ]
+  },
+  {
     text: "react进阶笔记",
     collapsable: true,
-    prefix: '/react-note',
+    prefix: 'react-note',
     icon: 'react',
     children: [
       "1.基础篇-认识jsx",
@@ -172,7 +188,7 @@ export default sidebar([
   },
   {
     text: '缓存相关',
-    prefix: '/缓存相关',
+    prefix: '缓存相关',
     icon: 'cache',
     collapsable: true,
     children: [
@@ -184,6 +200,15 @@ export default sidebar([
       "6.福利篇：换一种角度——用户操作与 HTTP 缓存",
       "拓展-https"
     ]
-
+  },
+  {
+    text: 'umi',
+    collapsable: true,
+    icon: 'react',
+    prefix: 'umi',
+    children: [
+      '1.配置式路由',
+      '1.如何搭建一个antd-pro项目'
+    ]
   }
 ]);

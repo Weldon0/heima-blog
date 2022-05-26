@@ -132,6 +132,23 @@ export default sidebar([
     ]
   },
   {
+    text: '面试题',
+    prefix: '面试题',
+    icon: 'repo',
+    collapsable: true,
+    children: [
+      '1.html基础',
+      '2.css基础',
+      '3.js',
+      '4.http协议',
+      '5.tcp',
+      '6.dom',
+      '7.浏览器与新技术',
+      '8.前端工程化',
+      '9.vue',
+    ]
+  },
+  {
     text: 'vue3小兔鲜项目',
     prefix: '/小兔鲜',
     icon: 'vue',

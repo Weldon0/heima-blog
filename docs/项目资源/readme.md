@@ -35,6 +35,18 @@ title: 项目资源
 
 
 
+
+
+### 接口变更
+
+* ajax阶段，原（http://www.liulongbin.top:3006）还有3009端口接口替换成http://ajax-base-api-t.itheima.net
+* 大事件layui项目（http://www.liulongbin.top:3007）接口替换成http://big-event-api-t.itheima.net
+* 大事件vue项目，原（http://www.liulongbin.top:3008）接口替换成http://big-event-vue-api-t.itheima.net
+* 品优购电商后台vue项目，接口换成http://vue-shop-api-t.itheima.net
+* 使用 www.escook.cn 接口服务的老师可以使用代替方案 https://applet-base-api-t.itheima.net/
+
+
+
 ### 笔记系列
 * 项目笔记：http://42.192.129.12/note/index.html
 

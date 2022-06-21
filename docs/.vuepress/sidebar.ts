@@ -2,9 +2,31 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar([
   {
+    text: 'js高级笔记',
+    icon: 'javascript',
+    prefix: 'js高级',
+    collapsable: true,
+    children: [
+      'JavaScript高级第01天笔记',
+      'JavaScript高级第02天笔记',
+      'JavaScript高级第03天笔记',
+      'JavaScript高级第04天笔记',
+      'es6-ES6概念&新增语法&内置对象拓展',
+    ]
+  },
+  {
     text: '项目资源',
     icon: 'repo',
     link: '/项目资源'
+  },
+  {
+    text: '项目问题',
+    icon: 'repo',
+    link: '/项目问题',
+    prefix: '项目问题',
+    children: [
+      '1.node-sass问题'
+    ]
   },
   {
     text: "react课程",
@@ -154,14 +176,20 @@ export default sidebar([
     icon: 'vue',
     collapsable: true,
     children: [
-      'day01-Vue3入门',
-      'day02-小兔鲜儿',
-      'day03-小兔鲜儿',
-      'day04-小兔鲜儿',
-      'day05-小兔鲜儿',
-      'day06-小兔鲜儿',
-      'day07-小兔鲜儿',
-      'day08-小兔鲜儿',
+      '01-vue3笔记',
+      '02-pinia笔记',
+      '03-Typescript',
+      '04-项目搭建',
+      '05-布局模块',
+      '06-首页模块',
+      '07-分类模块',
+      '08-商品详情',
+      '09-登录模块',
+      '10-登录模块-第三方登录',
+      '11-购物车模块',
+      '12-结算模块',
+      '13-支付模块',
+      '14-订单模块',
     ]
   },
   {

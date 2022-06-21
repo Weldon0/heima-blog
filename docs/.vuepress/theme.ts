@@ -6,17 +6,18 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
   author: {
     name: "武晓慧",
-    url: "https://mrhope.site",
+    url: "https://blog-1gxfs2h1401f4f58-1254415986.tcloudbaseapp.com/",
   },
   iconAssets: "//at.alicdn.com/t/font_2410206_h4r1xw8ppng.css",
   iconPrefix: "iconfont icon-",
-
   logo: "/logo.svg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "demo/src",
+  metaLocales: {
 
+  },
   // navbar
   navbar: navbar,
 

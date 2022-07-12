@@ -57,6 +57,12 @@ title: 项目资源
 * 人力资源：http://weldon.net.cn:3001
 * 电商项目: http://weldon.net.cn:8888
 
+### 项目完整笔记
+* vue基础 >> [https://weldon0.github.io/vue-notes/](https://weldon0.github.io/vue-notes/)
+* 黑马头条 >> [https://weldon0.github.io/toutiao-notes/](https://weldon0.github.io/toutiao-notes/)
+* 微信小程序 >> [https://weldon0.github.io/wxxcx-docs/](https://weldon0.github.io/wxxcx-docs/)
+* 人资 >> [https://weldon0.github.io/hrsass-notes/](https://weldon0.github.io/hrsass-notes/)
+
 
 
 

@@ -248,13 +248,20 @@ export default sidebar([
     ]
   },
   {
-    text: 'umi',
+    text: '面试题系列',
+    prefix: '面试题系列',
+    icon:'vue',
     collapsable: true,
-    icon: 'react',
-    prefix: 'umi',
     children: [
-      '1.配置式路由',
-      '1.如何搭建一个antd-pro项目'
+      '一、Vue生命周期',
+      '二、对keep-alive的理解',
+      '三、v-if&v-show',
+      '四、ref是什么',
+      '五、scoped原理是什么',
+      '六、如何做样式穿透',
+      '七、组件传值',
+      '文件上传',
+      '阿里外包笔试题目'
     ]
   }
 ]);

@@ -23,18 +23,15 @@ title: 项目资源
 
 ### 电商后台管理系统
 
-* 基准地址：http://42.192.129.12:8888
-* 体验地址：[http://42.192.129.12/shop/index.html#/welcome](http://42.192.129.12/shop/index.html#/welcome)
-* 接口文档：待更新
+* 新基础地址: http://liufusong.top:8899
+* 体验地址：[http://liufusong.top/hm-admin](http://liufusong.top/hm-admin)
+* 接口文档：[http://liufusong.top/admin-api.html#_1-1-api-v1-%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E](http://liufusong.top/admin-api.html#_1-1-api-v1-%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E)
 
 ### 黑马头条
 
 * 基准地址：http://42.192.129.12:8000
 * 体验地址：[http://42.192.129.12/toutiao](http://42.192.129.12/toutiao)
 * 接口文档: [http://42.192.129.12/api-note/toutiao.html](http://42.192.129.12/api-note/toutiao.html)
-
-
-
 
 
 ### 接口变更

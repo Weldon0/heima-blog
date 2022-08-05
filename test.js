@@ -1,0 +1,20 @@
+classVue{
+     constructor(options){
+      //1.保存选项的数据
+      this.$options=options||{}
+      this.$data=options.data||{}
+      constel=options.el
+      this.$el=typeofoptions.el==='string'?document.querySelector(el) : el;
+       //2.负责把data注入到Vue实例
+      this._proxyData(this.$data)
+      //3.负责调用Observer实现数据劫持
+      //4.负责调用Compiler解析指令/插值表达式等
+     }
+      _proxyData(data){
+      //遍历data的所有属性
+      Object.keys(data).forEach(key=>{
+       Object.defineProperty(this,key,{    
+         get(){
+         returndata[key]
+         },
+    }

@@ -263,5 +263,18 @@ export default sidebar([
       '文件上传',
       '阿里外包笔试题目'
     ]
+  },
+  {
+    text: 'vue原理',
+    prefix: 'vue原理',
+    collapsable: true,
+    children: [
+      {
+        text: 'vue2原理',
+        prefix: 'vue2原理',
+        collapsable: true,
+        children: ['1.响应式原理']
+      }
+    ]
   }
 ]);

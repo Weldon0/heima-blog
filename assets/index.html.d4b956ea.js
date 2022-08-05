@@ -1,0 +1,1 @@
+import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";import{o as a,c as t,a as e,d}from"./app.e3686eef.js";const o={},c=e("h1",{id:"redux",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#redux","aria-hidden":"true"},"#"),d(" redux")],-1),n=[c];function s(_,i){return a(),t("div",null,n)}var x=r(o,[["render",s],["__file","index.html.vue"]]);export{x as default};

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BD82E1823C94F15948619E6400CB0B4F</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/001 - 导航到 tabBar 页面.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/001--dao-hang-dao-tabbar-ye-mian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/002 - 导航到非 tabBar 页面.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/002--dao-hang-dao-fei-tabbar-ye-mian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/003 - 后退导航.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/003--hou-tui-dao-hang.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/004 - 导航到 tabBar 页面.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/004--dao-hang-dao-tabbar-ye-mian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/005 - 导航到非 tabBar 页面.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/005--dao-hang-dao-fei-tabbar-ye-mian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/006 - 后退导航.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/006--hou-tui-dao-hang.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/007 - 声明式导航传参.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/007--sheng-ming-shi-dao-hang-chuan-can.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/008 - 编程式导航传参.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/008--bian-cheng-shi-dao-hang-chuan-can.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/009 - 在 onLoad 中接收导航参数.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/009--zai-onload-zhong-jie-shou-dao-hang-can-shu.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/010 - 监听页面的下拉刷新事件.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/010--jian-ting-ye-mian-de-xia-la-shua-xin-shi-jian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/011 - 监听页面的下拉刷新事件.jpg.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/011--jian-ting-ye-mian-de-xia-la-shua-xin-shi-jian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/012 - 停止下拉刷新的效果.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/012--ting-zhi-xia-la-shua-xin-de-xiao-guo.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/013 - 监听页面上的上拉触底事件.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/013--jian-ting-ye-mian-shang-de-shang-la-chu-di-sh.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/014 - 2LifeCycle.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/014--2lifecycle.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/014 - 内嵌  wxs 脚本.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/014--nei-qian--wxs-jiao-ben.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/015 - 定义外联的 wxs 脚本.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/015--ding-yi-wai-lian-de-wxs-jiao-ben.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/016 - 使用外联的 wxs 脚本.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/016--shi-yong-wai-lian-de-wxs-jiao-ben.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/017 - 不能作为事件回调.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/017--bu-neng-zuo-wei-shi-jian-hui-diao.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/018 - 不能作为事件回调.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/018--bu-neng-zuo-wei-shi-jian-hui-diao.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_003/020 - 商品列表.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/020--shang-pin-lie-biao.jpg</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>BD82E1823C94F15948619E6400CB0B4F</string>
+</dict>
+</plist>

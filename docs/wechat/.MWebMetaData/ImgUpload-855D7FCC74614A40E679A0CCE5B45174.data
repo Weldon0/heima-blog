@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BD82E1823C94F15948619E6400CB0B4F</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/002 - 局部引用组件.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/002--ju-bu-yin-yong-zu-jian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/003 - 全局引入组件.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/003--quan-ju-yin-ru-zu-jian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/004 - 组件样式隔离.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/004--zu-jian-yang-shi-ge-li.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/005 - 修改组件的样式隔离选项.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/005--xiu-gai-zu-jian-de-yang-shi-ge-li-xuan-xiang.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/006 - styleIsolation 的可选值.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/006--styleisolation-de-ke-xuan-zhi.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/007 - 定义 data 私有数据.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/007--ding-yi-data-si-you-shu-ju.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/008 - methods 方法.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/008--methods-fang-fa.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/009 - 定义 properties 属性.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/009--ding-yi-properties-shu-xing.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/009 - 定义 properties 属性.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/009--ding-yi-properties-shu-xing.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/010 - data 和 properties 的区别.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/010--data-he-properties-de-qu-bie.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/011 - 使用 setData 修改 properties 的值.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/011--shi-yong-setdata-xiu-gai-properties-de-zhi.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/012 - 什么是数据监听器.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/012--shen-me-shi-shu-ju-jian-ting-qi.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/013 - ui 的组件结构.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/013--ui-de-zu-jian-jie-gou.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/014 - 组件的 `js`  代码.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/014--zu-jian-de-js--dai-ma.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/015 - 监听对象.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/015--jian-ting-dui-xiang.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/016 - 案例效果.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/016--an-li-xiao-guo.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/017 - 渲染 UI 结构.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/017--xuan-ran-ui-jie-gou.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/018 - 定义 button 的事件处理函数.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/018--ding-yi-button-de-shi-jian-chu-li-han-shu.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/019 -  监听对象中指定属性的变化.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/019---jian-ting-dui-xiang-zhong-zhi-ding-shu-xing.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/020 - 监听对象中所有属性的变化.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/020--jian-ting-dui-xiang-zhong-suo-you-shu-xing-de.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/021 - 使用规则.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/021--shi-yong-gui-ze.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/022 - 使用纯数据字段改造数据监听器案例.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/022--shi-yong-chun-shu-ju-zi-duan-gai-zao-shu-ju-j.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/023 - lifetime 节点.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/023--lifetime-jie-dian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/024 - pageLifetimes 节点.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/024--pagelifetimes-jie-dian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/025 - 生成随机的 RGB 颜色值.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/025--sheng-cheng-sui-ji-de-rgb-yan-se-zhi.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/026 - 生成随机的 RGB 颜色值.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/026--sheng-cheng-sui-ji-de-rgb-yan-se-zhi.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/027 - 什么是插槽.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/027--shen-me-shi-cha-cao.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/028 - 单个插槽.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/028--dan-ge-cha-cao.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/029 - 启动多个插槽.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/029--qi-dong-duo-ge-cha-cao.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/030 - 定义多个插槽.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/030--ding-yi-duo-ge-cha-cao.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/031 - 属性绑定.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/031--shu-xing-bang-ding.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/032 - 接收数据.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/032--jie-shou-shu-ju.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/033 - 步骤 1.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/033--bu-zhou-1.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/034 - 步骤 2.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/034--bu-zhou-2.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/035 - 步骤 3 .jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/035--bu-zhou-3.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/036 - 步骤 4.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/036--bu-zhou-4.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/037 - selectComponent .jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/037--selectcomponent.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/038 - 什么是 behaviors.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/038--shen-me-shi-behaviors.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/039 - 创建 behaviors.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/039--chuang-jian-behaviors.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_004/040 - 导入并使用 behaviors.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/040--dao-ru-bing-shi-yong-behaviors.jpg</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>BD82E1823C94F15948619E6400CB0B4F</string>
+</dict>
+</plist>

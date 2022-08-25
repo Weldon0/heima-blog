@@ -8,6 +8,8 @@ title: 项目资源
 * 常见笔试题[https://www.yuque.com/docs/share/98aa9334-e723-4990-bc5a-09e7f25c4d5d](https://www.yuque.com/docs/share/98aa9334-e723-4990-bc5a-09e7f25c4d5d?)
 
 
+### 总接口文档
+* [https://www.apifox.cn/apidoc/shared-fa9274ac-362e-4905-806b-6135df6aa90e/doc-842135](https://www.apifox.cn/apidoc/shared-fa9274ac-362e-4905-806b-6135df6aa90e/doc-842135)
 
 ### 极客园PC
 * 体验地址[http://42.192.129.12/geek/index.html](http://42.192.129.12/geek/index.html)
@@ -33,6 +35,11 @@ title: 项目资源
 * 体验地址：[http://42.192.129.12/toutiao](http://42.192.129.12/toutiao)
 * 接口文档: [http://42.192.129.12/api-note/toutiao.html](http://42.192.129.12/api-note/toutiao.html)
 
+### 小兔鲜接口
+* 基准地址：[http://pcapi-xiaotuxian-front-devtest.itheima.net](http://pcapi-xiaotuxian-front-devtest.itheima.net)
+* 基准地址：[https://apipc-xiaotuxian-front.itheima.net](https://apipc-xiaotuxian-front.itheima.net)
+* 体验地址：[http://erabbit.itheima.net/#/](http://erabbit.itheima.net/#/)
+* 体验地址2：[https://erabbit-test.itheima.net](https://erabbit-test.itheima.net)
 
 ### 接口变更
 

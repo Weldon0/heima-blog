@@ -6,7 +6,7 @@
   "scripts": {
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
-    "docs:dev": "vuepress dev docs",
+    "dev": "vuepress dev docs",
     "docs:eject-theme": "vuepress eject-hope docs"
   },
   "devDependencies": {
@@ -17,6 +17,7 @@
     "vuepress-theme-hope": "^2.0.0-beta.84"
   },
   "dependencies": {
-    "@vuepress/plugin-pwa": "^2.0.0-beta.49"
+    "@vuepress/plugin-pwa": "^2.0.0-beta.49",
+    "vuepress-plugin-bubble": "latest"
   }
 }

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BD82E1823C94F15948619E6400CB0B4F</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/001 - vant weapp.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/001--vant-weapp.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/002 - 使用 Vant 组件.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/002--shi-yong-vant-zu-jian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/003 - 使用 CSS 变量定制 Vant 的主题样式.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/003--shi-yong-css-bian-liang-ding-zhi-vant-de-zhu.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/004 - 异步 API 的缺点.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/004--yi-bu-api-de-que-dian.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/005 - 实现 API 的 Promise 化.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/005--shi-xian-api-de-promise-hua.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/006 - 调用 Promise 化之后的异步 API.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/006--diao-yong-promise-hua-zhi-hou-de-yi-bu-api.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/007 - 全局数据共享.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/007--quan-ju-shu-ju-gong-xiang.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/008 - 全局数据共享方案.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/008--quan-ju-shu-ju-gong-xiang-fang-an.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/009 - 定义计算属性.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/009--ding-yi-ji-suan-shu-xing.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/009 - 定义计算属性.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/009--ding-yi-ji-suan-shu-xing.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/010 - 将 Store 中的成员绑定到页面上的实现思路.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/010--jiang-store-zhong-de-cheng-yuan-bang-ding-dao.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/011 - 在页面中使用 Store 的成员.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/011--zai-ye-mian-zhong-shi-yong-store-de-cheng-yua.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/012 - 成员绑定到组件上.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/012--cheng-yuan-bang-ding-dao-zu-jian-shang.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/013 - 分包前项目的构成.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/013--fen-bao-qian-xiang-mu-de-gou-cheng.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/014 - 分包后项目的构成.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/014--fen-bao-hou-xiang-mu-de-gou-cheng.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/015 - 分包配置方法.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/015--fen-bao-pei-zhi-fang-fa.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/016 - 独立分包.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/016--du-li-fen-bao.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/017 -  将普通分包改造成独立分包.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/017---jiang-pu-tong-fen-bao-gai-zao-cheng-du-li-fe.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/018 - 配置分包的预下载.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/018--pei-zhi-fen-bao-de-yu-xia-zai.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_005/019 - 分包预下载的限制.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/019--fen-bao-yu-xia-zai-de-xian-zhi.jpg</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>BD82E1823C94F15948619E6400CB0B4F</string>
+</dict>
+</plist>

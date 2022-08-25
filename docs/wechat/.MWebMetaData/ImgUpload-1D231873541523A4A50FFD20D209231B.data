@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BD82E1823C94F15948619E6400CB0B4F</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/018 - 接收传递的参数.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/018--jie-shou-chuan-di-de-can-shu.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/019 - bindinput 的语法格式.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/019--bindinput-de-yu-fa-ge-shi.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/020 - bindinput 的语法格式.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/020--bindinput-de-yu-fa-ge-shi.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/021 - 定义数据.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/021--ding-yi-shu-ju.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/022 - 渲染结构.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/022--xuan-ran-jie-gou.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/023 - 美化样式.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/023--mei-hua-yang-shi.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/024 - 绑定 input 事件处理函数.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/024--bang-ding-input-shi-jian-chu-li-han-shu.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/025 - wxif.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/025--wxif.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/026 - wxif.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/026--wxif.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/027 - blockif.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/027--blockif.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/028 - hidden.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/028--hidden.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/029 - wxfor.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/029--wxfor.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/030 - 手动指定索引和当前项的变量名.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/030--shou-dong-zhi-ding-suo-yin-he-dang-qian-xiang.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/031 - key的使用.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/031--key-de-shi-yong.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/038 - wxss.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/038--wxss.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/2xcxwindow.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/2xcxwindow.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/2tabbarb.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/2tabbarb.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/2tabbart.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/2tabbart.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/2tabbar.png</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/2tabbar.png</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/032 - 小程序中网络数据请求的限制.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/032--xiao-cheng-xu-zhong-wang-luo-shu-ju-qing-qiu.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/033 - 发起 Get 请求.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/033--fa-qi-get-qing-qiu.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/034 - 发起 Get 请求.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/034--fa-qi-get-qing-qiu.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>./images/Day_002/036 - 跳过 request 合法域名校验.jpg</string>
+			<key>remoteURL</key>
+			<string>https://wuxiaohui-1254415986.cos.ap-nanjing.myqcloud.com/2022/08/08/036--tiao-guo-request-he-fa-yu-ming-xiao-yan.jpg</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>BD82E1823C94F15948619E6400CB0B4F</string>
+</dict>
+</plist>
